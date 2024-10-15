@@ -1,2 +1,2 @@
 # assets
-Repository for my projects' assets
+Repository for all project assets
